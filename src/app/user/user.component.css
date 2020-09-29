@@ -1,0 +1,25 @@
+.card {
+  margin-top: 1opx;
+  margin-bottom: 2px;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.mat-table {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+a {
+  cursor: pointer;
+}
+
+.loader-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+}
